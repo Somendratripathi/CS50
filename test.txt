@@ -1,0 +1,6 @@
+import pandas as pd;
+
+x=22;
+y=33;
+
+print("X is ", x)
